@@ -3,12 +3,9 @@ layout: page
 title: About
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Yo!
+I'm new to GitHub.  If you see something that you think I could be doing more efficiently or you're just friendly please gimme a shout!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[swesleyandloki@gmail.com](mailto:email@domain.com)
