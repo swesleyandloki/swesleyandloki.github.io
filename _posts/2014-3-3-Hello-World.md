@@ -14,16 +14,16 @@ And the best way I can think to learn even faster is to surround myself with bri
 {% highlight javascript %}
 var stillTryingToGetIn = true;
 while(stillTryingToGetIn){
-  /*I have applied to hackreactor;
+  I have applied to hackreactor;
   I have completed their web application challenge by myself during my second ever week of trying to code;
   I have been interviewed twice;
-  I have demonstrated great improvement between interviews but still have not been accepted;*\
+  I have demonstrated great improvement between interviews but still have not been accepted;
+  };
+  //I am trapped in an infinite application loop!
 var rawr = ["r", "a", "w", "r"];
+
 {% endhighlight %}
  
 As you can see, I've started trying to get my hands dirty in GitHub, and have now also familiarized myself with git commands and iTerm2.  Hopefully, those at HackReactor will be monitoring my progress and _deem me worthy_ soon.
  
 Send me good vibes please world...
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
