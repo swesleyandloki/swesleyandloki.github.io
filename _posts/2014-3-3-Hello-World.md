@@ -1,7 +1,4 @@
----
-layout: post
-title: I want to go to Hack Reactor!
----
+#I want to go to HackReactor
 
 ##I've been learning to code!
 
