@@ -1,4 +1,7 @@
-#I want to go to HackReactor
+---
+layout: post
+title: I want to go to Hack Reactor!
+---
 
 ##I've been learning to code!
 
@@ -12,9 +15,11 @@ And the best way I can think to learn even faster is to surround myself with bri
 var stillTryingToGetIn = true;
 while(stillTryingToGetIn){
   I have applied to hackreactor;
-  I have completed their web application challenge by myself during my second ever week of trying to code;
+  I have completed their web application challenge by myself;
+  During my second ever week of trying to code;
   I have been interviewed twice;
-  I have demonstrated great improvement between interviews but still have not been accepted;
+  I have demonstrated great improvement between interviews;
+  But still have not been accepted;
   };
   //I am trapped in an infinite application loop!
 var rawr = ["r", "a", "w", "r"];
