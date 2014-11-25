@@ -11,7 +11,7 @@ Or an otherwise or a catch or something.
 
 Today I spent a great deal of time staring at some code for a POST request, and wondering why the promise returned was falling straight through to the catch block.  I got a little mad at the repo for a while, and then I realized that this was a gift.
 
-```
+{% highlight javascript %}
 var add = function(link) {
     return $http({
       method: 'POST',
@@ -26,8 +26,7 @@ var add = function(link) {
       console.log(err, 'CAUGHTCAUGHT!');
     });
   };
-  
-```
+{% endhighlight %}
 
 Every time a promise didn't resolve the way I was expecting, I could immediately see where the error was caught, through a simple logging of "CAUGHTCAUGHT", or "YOUSANKMYBATTLESHIP".  Even though it took me a while to wade through this code, I never went down with the ship through the stack trace because I could see the error trail that I wrote myself.  
 
